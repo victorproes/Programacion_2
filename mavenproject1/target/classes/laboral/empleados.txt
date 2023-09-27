@@ -1,0 +1,3 @@
+James Cosling,32000032G,M,4,7
+Ada Lovelace,32000031R,F,1,0
+Alan Turing,32000033A,M,3,5
